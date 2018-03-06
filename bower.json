@@ -1,0 +1,16 @@
+{
+  "name": "proyecto bower",
+  "authors": [
+    "DI.C"
+  ],
+  "description": "Primer proyecto",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ] }
+}
